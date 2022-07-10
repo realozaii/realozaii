@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Ben ozaii</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Türk Asıllı bir oyun geliştiricisi</h3>
 
 - 📫 Ulaşabiliceğiniz Epostam **berkeyldrm2306@gmail.com**
 
