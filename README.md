@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm ozaii</h1>
+<h1 align="center">Hi 👋, Ben ozaii</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 Ulaşabiliceğiniz Epostam **berkeyldrm2306@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">İletişim me:</h3>
 <p align="left">
 <a href="https://instagram.com/ozaii.c4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozaii.c4d" height="30" width="40" /></a>
 <a href="https://discord.gg/848593990096781348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="848593990096781348" height="30" width="40" /></a>
