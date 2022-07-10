@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Ben ozaii</h1>
+<h1 align="center">Selamm 👋, Ben ozaii</h1>
 <h3 align="center">Türk Asıllı bir oyun geliştiricisi</h3>
 
 - 📫 Ulaşabiliceğiniz Epostam **berkeyldrm2306@gmail.com**
